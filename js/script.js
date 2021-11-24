@@ -1,5 +1,5 @@
 var api_key='7b1e8f20';
-var api_url=`https://www.omdbapi.com/?apikey=${api_key}`;
+var api_url=`http://www.omdbapi.com/?apikey=${api_key}`;
 
 let pagination = {
     page:1,
